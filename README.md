@@ -97,3 +97,6 @@ Suggestions for adding support for XML parsing or more complex header validation
 
 ---
 *Released under the MIT License by jocck96.*
+
+---
+*Released under the MIT License by roninfowiure54.*
